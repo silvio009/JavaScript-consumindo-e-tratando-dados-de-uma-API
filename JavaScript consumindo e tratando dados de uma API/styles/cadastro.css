@@ -12,3 +12,8 @@
 .cadastro__subtitulo {
     margin: 1em 0;
 }
+.msg-erro{
+    color: red;
+    font-size: medium;
+    padding: 10px;
+}
